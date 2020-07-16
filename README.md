@@ -22,12 +22,13 @@
 	https://www.linkedin.com/in/douglasgsilveira/
 	https://www.instagram.com/douglasgarciadasilveira
 	https://www.facebook.com/douglassilveira88
-## Apresentação projeto SIMPLIX
+#Projeto SIMPLIX
+##Apresentação em Vídeo
+Vídeo no **Youtube** [CLIQUE AQUI](https://youtu.be/eBK2IE8-09M)
 
-	[CLIQUE AQUI](https://youtu.be/eBK2IE8-09M)
-	**Vídeo no Youtube**
+##Sobre o projeto
 
-
+Esse trabalho tem como objetivo complementar o conteúdo teórico abordado sobre o projeto de processadores. Para tanto, foi implementado o SIMPLIX, um processador didático.
 
 #### **Observação:**
 Para abrir o arquivo "Projeto SIMPLIX.circ" é necessário utilizar o Software Logisim.
