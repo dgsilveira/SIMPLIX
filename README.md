@@ -2,7 +2,7 @@
 
 # **PUC MINAS**
 
-##**Graduação em Engenharia de Software**
+## **Graduação em Engenharia de Software**
 
 ### 2º período 1º semestre de 2020
 
@@ -25,12 +25,12 @@
 	https://www.linkedin.com/in/douglasgsilveira/
 	https://www.instagram.com/douglasgarciadasilveira
 	https://www.facebook.com/douglassilveira88
-#Projeto SIMPLIX
+# Projeto SIMPLIX
 
-##Apresentação em Vídeo
+## Apresentação em Vídeo
 Vídeo no [**Youtube**](https://youtu.be/eBK2IE8-09M)
 
-##Sobre o projeto
+## Sobre o projeto
 
 Esse trabalho tem como objetivo complementar o conteúdo teórico abordado sobre o projeto de processadores. Para tanto, foi implementado o SIMPLIX, um processador didático.
 
