@@ -23,7 +23,7 @@
 	douglasgsilveira@gmail.com
 	https://github.com/dgsilveira
 	https://www.linkedin.com/in/douglasgsilveira/
-	https://www.instagram.com/douglasgarciadasilveira
+	https://www.instagram.com/silveiradouglas_
 	https://www.facebook.com/douglassilveira88
 # Projeto SIMPLIX
 
